@@ -1,10 +1,9 @@
 # Sketchpad
-The Odin Project: Javascript and jQuery Project
-https://www.theodinproject.com/courses/web-development-101/lessons/javascript-and-jquery
-
-Requirements of the project:
-1) Create a 16x16 grid using Javascript
-2) Add a button which changes the grid size
+Make an "Etch-a-Sketch" using HTML/CSS/Javascrit and jQuery 
+Project of The Odin Project https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
+> 1. Create a 16x16 grid using Vanilla Javascript
+> 2. Add a button which changes the grid size
+> 3. Set up a “hover” effect using jQuery
 
 
 
